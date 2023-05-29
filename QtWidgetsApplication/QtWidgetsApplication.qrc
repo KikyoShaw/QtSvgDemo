@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pfx">
+        <file>qrc/setting-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
